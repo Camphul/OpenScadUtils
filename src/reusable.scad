@@ -12,5 +12,6 @@ use <honeycomb.scad>;
 use <spray_pattern.scad>;
 use <rounded_square.scad>;
 use <rounded_cube.scad>;
+use <rounded_cylinder.scad>;
 echo("Loaded reusable lib");
 info("Now using __logging.scad for reusable lib");
